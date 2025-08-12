@@ -283,86 +283,71 @@ export const SOCIALS = [
   {
     name: "Telegram",
     icon: FaTelegram,
-    link: "https://t.me/StellaRay777",
-  },
-  {
-    name: "Skype",
-    icon: FaSkype,
-    link: "https://join.skype.com/invite/x6C2Nf1SDyrp",
-  },
-  {
-    name: "Discord",
-    icon: RxGithubLogo,
-    link: "https://github.com/CodeByStella",
-  },
+    link: "https://t.me/race_dev103",
+  }
 ] as const;
 
 export const FOOTER_DATA = [
-  {
-    title: "Community",
-    data: [
-      {
-        name: "Telegram",
-        icon: FaTelegram,
-        link: "https://t.me/+Fa5kTluTaD9jNjk0",
-      },
-      {
-        name: "Discord",
-        icon: FaDiscord,
-        link: "https://discord.gg/huYgwCPeeP"
-      },
-      {
-        name: "GitHub",
-        icon: RxGithubLogo,
-        link: "https://github.com/orgs/community/discussions/155079",
-      },
-    ],
-  },
-  // {
-  //   title: "Social Media",
-  //   data: [
-  //     {
-  //       name: "Telegram",
-  //       icon: FaTelegram,
-  //       link: "https://t.me/superdev",
-  //     },
-  //     {
-  //       name: "Discord",
-  //       icon: FaDiscord,
-  //       link: "https://discord.gg/gnfMx4uY",
-  //     },
-  //     {
-  //       name: "Skype",
-  //       icon: FaSkype,
-  //       link: "https://join.skype.com/invite/pTDpQyK9lx5a",
-  //     },
-  //     // {
-  //     //   name: "Linkedin",
-  //     //   icon: RxLinkedinLogo,
-  //     //   link: "https://linkedin.com",
-  //     // },
-  //   ],
-  // },
-  // {
-  //   title: "About",
-  //   data: [
-  //     {
-  //       name: "Become Sponsor",
-  //       icon: null,
-  //       link: "https://youtube.com",
-  //     },
-  //     {
-  //       name: "Learning about me",
-  //       icon: null,
-  //       link: "https://example.com",
-  //     },
-  //     {
-  //       name: "Contact Me",
-  //       icon: null,
-  //       link: "mailto:hiwebdev0026@gmail.com",
-  //     },
-  //   ],
-  // },
+    {
+        title: "Community",
+        data: [
+            {
+                name: "Telegram",
+                icon: FaTelegram,
+                link: "https://t.me/race_dev103",
+            },
+            {
+                name: "GitHub",
+                icon: RxGithubLogo,
+                link: "https://bestrace103",
+            },
+        ],
+    },
+    // {
+    //   title: "Social Media",
+    //   data: [
+    //     {
+    //       name: "Telegram",
+    //       icon: FaTelegram,
+    //       link: "https://t.me/superdev",
+    //     },
+    //     {
+    //       name: "Discord",
+    //       icon: FaDiscord,
+    //       link: "https://discord.gg/gnfMx4uY",
+    //     },
+    //     {
+    //       name: "Skype",
+    //       icon: FaSkype,
+    //       link: "https://join.skype.com/invite/pTDpQyK9lx5a",
+    //     },
+    //     // {
+    //     //   name: "Linkedin",
+    //     //   icon: RxLinkedinLogo,
+    //     //   link: "https://linkedin.com",
+    //     // },
+    //   ],
+    // },
+    // {
+    //   title: "About",
+    //   data: [
+    //     {
+    //       name: "Become Sponsor",
+    //       icon: null,
+    //       link: "https://youtube.com",
+    //     },
+    //     {
+    //       name: "Learning about me",
+    //       icon: null,
+    //       link: "https://example.com",
+    //     },
+    //     {
+    //       name: "Contact Me",
+    //       icon: null,
+    //       link: "bestrace103@gmail.com",
+    //     },
+    //   ],
+    // },
 ] as const;
 
 export const NAV_LINKS = [
@@ -381,5 +366,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/CodeByStella/Stella-Portfolio",
+    sourceCode: "https://github.com/bestrace103/portfolio",
 };

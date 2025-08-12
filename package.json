@@ -1,5 +1,5 @@
 {
-  "name": "stella-portfolio",
+  "name": "race-portfolio",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Stella Ray",
-    "email": "okovtun747@gmail.com",
-    "url": "https://github.com/CodeByStella"
+    "name": "Race",
+    "email": "bestrace103@gmail.com",
+    "url": "https://github.com/bestrace103"
   },
   "description": "Welcome to my full stack developer portfolio.",
   "keywords": [
@@ -48,12 +48,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodeByStella/Stella-Portfolio"
+    "url": "https://github.com/bestrace103/portfolio"
   },
-  "homepage": "https://github.com/CodeByStella/Stella-Portfolio#readme",
+  "homepage": "https://github.com/bestrace103/portfolio",
   "bugs": {
-    "url": "https://github.com/CodeByStella/Stella-Portfolio/issues",
-    "email": "okovtun747@gmail.com"
+    "url": "https://github.com/bestrace103/portfolio",
+    "email": "bestrace103@gmail.com"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.1",

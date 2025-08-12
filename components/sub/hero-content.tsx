@@ -46,7 +46,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m <b>Stella Ray</b>, a full-stack web developer with over 8 years of experience crafting scalable, secure, and user-centric web applications. From dynamic frontends to powerful backends, I specialize in delivering seamless digital experiences with modern technologies like MERN stack, Next.js, TypeScript, and Tailwind CSS. Let’s build something incredible together.
+          I&apos;m <b>Race</b>, a full-stack web developer with over 8 years of experience crafting scalable, secure, and user-centric web applications. From dynamic frontends to powerful backends, I specialize in delivering seamless digital experiences with modern technologies like MERN stack, Next.js, TypeScript, and Tailwind CSS. Let’s build something incredible together.
         </motion.p>
 
         <motion.a
